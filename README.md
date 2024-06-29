@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizqi Noor Fauzan</h1>
 <h3 align="center">A Student Informatics Engineering</h3>
 
-- 🌱 I’m currently learning **Tailwind, Dicoding**
+- 🌱 I’m currently learning **Tailwind and React JS**
 
 - 📫 How to reach me **fauzanrizqinoor@gmail.com**
 
