@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rizqi Noor Fauzan</h1>
 <h3 align="center">A Student Informatics Engineering</h3>
+<img align="right" with="400" alt="coding" src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.gif">
 
 - 🌱 I’m currently learning **Tailwind and React JS**
 
 - 📫 How to reach me **fauzanrizqinoor@gmail.com**
-<img align="right" with="250" alt="coding" src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rizqi-noor-fauzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rizqi-noor-fauzan" height="30" width="40" /></a>
