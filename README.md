@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizqi Noor Fauzan</h1>
 <h3 align="center">A Student Informatics Engineering</h3>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlrbTR6OTV6a2NueDU1YWdxcDRrbmh4Nmx3ZXE0aGdkdTQwN2lvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400px">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlrbTR6OTV6a2NueDU1YWdxcDRrbmh4Nmx3ZXE0aGdkdTQwN2lvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400px">
 
 - 🌱 I’m currently learning **Tailwind and React JS**
 
