@@ -16,5 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqi-noor-fauzan&show_icons=true&locale=en&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0a500&layout=compact" alt="rizqi-noor-fauzan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizqi-noor-fauzan&show_icons=true&locale=en&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0a500" alt="rizqi-noor-fauzan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizqi-noor-fauzan&show_icons=true&locale=en&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=4635B1" alt="rizqi-noor-fauzan" /></p>
 
