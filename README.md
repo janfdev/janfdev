@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizqi-noor-fauzan&show_icons=true&locale=en&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=4635B1" alt="rizqi-noor-fauzan" /></p>
 
-<span><img align="left" img="https://github.com/Rizqi-noor-fauzan/Calculator-/blob/main/github-user-contribution%20(1).gif"></span>
+
