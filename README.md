@@ -7,6 +7,17 @@
 
 ###
 
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 📚 I'm currently learning Tailwind and React JS<br>- ⚡ In my free time I created some project</p>
+
+###
+
 <h3>🛠️Languange and Tools</h3>
 
 <div align="left">
