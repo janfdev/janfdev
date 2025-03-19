@@ -56,7 +56,7 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqi-noor-fauzan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="rizqi-noor-fauzan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqi-noor-fauzan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" alt="rizqi-noor-fauzan" /></p>
 
 ### 🎵 Spotify Now Playing
 
