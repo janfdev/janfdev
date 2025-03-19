@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizqi-noor-fauzan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=4635B1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqi-noor-fauzan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=4635B1" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizqi-noor-fauzan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -28,6 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -43,15 +45,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizqi-noor-fauzan/rizqi-noor-fauzan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizqi-noor-fauzan/rizqi-noor-fauzan/output/pacman-contribution-graph.svg">
-</picture>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rizqi-noor-fauzan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 
 ###
