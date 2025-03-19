@@ -58,8 +58,6 @@
 
 ###
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rizqi-noor-fauzan&theme=dark" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=rizqi-noor-fauzan&theme=dark&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ###
