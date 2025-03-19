@@ -3,8 +3,6 @@
 
 </hr>
 
-
-
 <img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="400px">
 
 ###
