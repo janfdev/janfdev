@@ -6,8 +6,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizqi-noor-fauzan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=4635B1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqi-noor-fauzan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=4635B1" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizqi-noor-fauzan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqi-noor-fauzan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -57,7 +57,10 @@
 </div>
 
 ###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rizqi-noor-fauzan&theme=dark&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://open.spotify.com/user/zann76">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zann76&count=2&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
