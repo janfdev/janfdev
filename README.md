@@ -48,4 +48,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizqi-noor-fauzan/rizqi-noor-fauzan/output/pacman-contribution-graph.svg">
 </picture>
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
 ###
