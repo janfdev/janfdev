@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rizqi-noor-fauzan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple&hide_border=false" height="150" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqi-noor-fauzan&layout=compact&card_width=320&langs_count=6&theme=shades-of-purple&hide_border=false" height="150" alt="Top Languages" />
 </p>
 
