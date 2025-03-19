@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Rizqi Noor Fauzan and I'm a student informatics engineering, from Muhammadiyah University Of Cirebon</h2>
+<h2 align="center">Hi 👋! My name is Rizqi Noor Fauzan and I'm a student informatics engineering, from Muhammadiyah University Of Cirebon</h2>
+
+</hr>
 
 ###
 
