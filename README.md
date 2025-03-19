@@ -3,12 +3,12 @@
 
 <img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="400px">
 
-### 👩‍💻 About Me
+### 👩‍💻 About Me :
 
 - 📚 I'm currently learning **Tailwind** and **React JS**  
 - ⚡ In my free time, I create some projects  
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -26,7 +26,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
 </div>
 
-### 🌐 Connect with me
+### 🌐 Connect with me :
 
 <div align="left">
   <a href="https://www.instagram.com/zann.7654?igsh=MXUwb2wzNzU1dGZhcg=">
@@ -43,7 +43,7 @@
   </a>
 </div>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats :
 
 
 <div align="center">
@@ -55,7 +55,7 @@
   
 </div>
 
-### 🎵 Spotify Now Playing
+### 🎵 Spotify Now Playing :
 
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=317uoax6ttjgfhecs2v2f3wihhga">
@@ -64,7 +64,7 @@
 </div>
 
 
-###
+### 🔥 Streak :
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqi-noor-fauzan&" alt="rizqi-noor-fauzan" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqi-noor-fauzan&theme=shades-of-purple" alt="rizqi-noor-fauzan" />
 </div>
