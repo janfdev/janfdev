@@ -65,4 +65,4 @@
 
 
 ###
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqi-noor-fauzan&" alt="rizqi-noor-fauzan" /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqi-noor-fauzan&theme=dark" alt="rizqi-noor-fauzan" /></div>
