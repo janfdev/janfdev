@@ -59,10 +59,10 @@
 
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=317uoax6ttjgfhecs2v2f3wihhga">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=FauzanZ&count=2&unique=false" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uoax6ttjgfhecs2v2f3wihhga&count=2&unique=false" alt="Spotify recently played" />
   </a>
 </div>
 
 
 ###
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqi-noor-fauzan&theme=dark" alt="rizqi-noor-fauzan" /></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqi-noor-fauzan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="rizqi-noor-fauzan" /></div>
