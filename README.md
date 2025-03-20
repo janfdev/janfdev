@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me :
 
 - 📚 I'm currently learning **Tailwind** and **React JS**  
-- ⚡ In my free time, I create some projects  
+- ⚡ In my free time, I created some simple projects
 
 ### 🛠️ Languages and Tools :
 
