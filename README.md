@@ -75,6 +75,6 @@
 
 <br clear="both">
 
-[<img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" />](https://github.com/janfdev/output/blob/main/snake.svg)
+<img src="https://github.com/janfdev/output/blob/main/snake.svg"/>
 
 ###
