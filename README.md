@@ -66,5 +66,5 @@
 
 ### 🔥 Streak :
 <div align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=rizqi-noor-fauzan&theme=tokyonight" alt="rizqi-noor-fauzan" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=janfdev&theme=tokyonight" alt="rizqi-noor-fauzan" />
 </div>
