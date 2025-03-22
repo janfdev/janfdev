@@ -68,3 +68,13 @@
 <div align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=janfdev&theme=tokyonight" alt="janfdev" />
 </div>
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" />
+
+###
