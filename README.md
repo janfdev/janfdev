@@ -80,4 +80,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/janfdev/janfdev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
