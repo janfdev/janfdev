@@ -47,12 +47,9 @@
 
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=janfdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=shades-of-purple&hide_border=false" height="150" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janfdev&layout=compact&card_width=320&langs_count=6&theme=shades-of-purple&hide_border=false" height="150" alt="Top Languages" />
-
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=janfdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janfdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
 </div>
 
 ### 🎵 Spotify Now Playing :
@@ -66,7 +63,7 @@
 
 ### 🔥 Streak :
 <div align="center">
-    <img align="center" src="https://streak-stats.demolab.com/?user=janfdev&theme=tokyonight" alt="janfdev" />
+    <img src="https://streak-stats.demolab.com?user=janfdev&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
