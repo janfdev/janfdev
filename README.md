@@ -66,7 +66,7 @@
 
 ### 🔥 Streak :
 <div align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=janfdev&theme=tokyonight" alt="janfdev" />
+
 </div>
 
 
