@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi! There👋</h1>
 <h3>I'm Rizqi Noor Fauzan, an Informatics Engineering student passionate about Web Development. Currently, I'm diving deep into Frontend Development, focusing on React.js and Tailwind CSS to build modern, responsive, and user-friendly web applications. </h3>
 
 <img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="400px">
