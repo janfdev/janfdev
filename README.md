@@ -74,8 +74,8 @@
 
 
 ###
-
 <br clear="both">
+
 <img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" />
 
 
