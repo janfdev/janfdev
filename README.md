@@ -59,11 +59,11 @@
 
 ### 🎵 Spotify Now Playing :
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=317uoax6ttjgfhecs2v2f3wihhga">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uoax6ttjgfhecs2v2f3wihhga&count=2&unique=false" alt="Spotify recently played" />
   </a>
-</div>
+</div> -->
 
 
 ### 🔥 Streak :
