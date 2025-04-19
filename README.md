@@ -2,7 +2,7 @@
 <p align="center">
   <strong>I'm Rizqi Noor Fauzan</strong><br>
   An Informatics Engineering student passionate about Web Development.<br>
-  Currently, I'm diving deep into Frontend Development, focusing on <strong>React.js</strong> and <strong>Tailwind CSS</strong> to build modern, responsive, and user-friendly web applications.
+  Currently, I'm diving deep into Frontend Development, focusing on <strong>React.js</strong> and <strong>Tailwind CSS</strong> to build modern, responsive, and user-friendly Web Applications.
 </p>
 
 
