@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" style="margin-top: 5px;" alt="Tailwind CSS" />
 </div>
 
 ### 🌐 Connect with me :
