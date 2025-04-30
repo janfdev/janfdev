@@ -1,4 +1,4 @@
-<h1 align="center">Hi! There👋</h1>
+<h1 align="center">Hi! There <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 <p align="center">
   <strong>I'm Rizqi Noor Fauzan</strong><br>
   An Informatics Engineering student passionate about Web Development.<br>
