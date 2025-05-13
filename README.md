@@ -108,7 +108,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
+<!--### 😂Random Dev Meme
 <img src="https://www.memedroid.com/memes/detail/4390498/Read-Dissolving-Illusions-by-Suzanne-Humphries?refGallery=random&page=1" width="512px"/>
 
 ---
