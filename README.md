@@ -82,6 +82,14 @@
 </div> 
 
 
+### Projects :
+- [codewars](https://github.com/janfdev/codewars) - A collection of solutions to various Codewars problems! - ⭐ 0 stars, Language: JavaScript
+- [Food-Recipe-App-](https://github.com/janfdev/Food-Recipe-App-) - A web application to find delicious food recipes. - ⭐ 1 star, Language: JavaScript
+- [card-generator](https://github.com/janfdev/card-generator) - A tool for generating customizable cards. - ⭐ 0 stars, Language: TypeScript
+- [Todo-app-react](https://github.com/janfdev/Todo-app-react) - A simple To-do application built with React. - ⭐ 0 stars, Language: TypeScript
+- [whatsapp-bot](https://github.com/janfdev/whatsapp-bot) - A bot for WhatsApp that automates tasks and responses. - ⭐ 0 stars, Language: JavaScript
+
+
 ### 🔥 Streak :
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=janfdev&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
