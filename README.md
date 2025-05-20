@@ -76,8 +76,8 @@
 ### 🎵 Spotify Now Playing :
 
 <div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=317uoax6ttjgfhecs2v2f3wihhga">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317uoax6ttjgfhecs2v2f3wihhga&count=2&unique=false" alt="Spotify recently played" />
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31tsyhqczgzng3px7gcqb3lsg3iy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tsyhqczgzng3px7gcqb3lsg3iy&count=2&unique=false" alt="Spotify recently played" />
   </a>
 </div> 
 
