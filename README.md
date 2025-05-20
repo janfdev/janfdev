@@ -81,7 +81,6 @@
   </a>
 </div> 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tsyhqczgzng3px7gcqb3lsg3iy)
 
 ### ASCII :
 ```
