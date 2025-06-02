@@ -110,7 +110,7 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)" />
   </div>
 
-<a href="https://app.daily.dev/rizqinoorfauzan"><img src="https://api.daily.dev/devcards/v2/vB00ydU8RoM7vWZu2u8il.png?r=fho" width="356" alt="Rizqi Noor Fauzan's Dev Card"/></a>
+<a style="margin-top: 12px;" href="https://app.daily.dev/rizqinoorfauzan"><img src="https://api.daily.dev/devcards/v2/vB00ydU8RoM7vWZu2u8il.png?r=fho" width="356" alt="Rizqi Noor Fauzan's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=janfdev&icon=0&color=0)](https://visitcount.itsvg.in)
