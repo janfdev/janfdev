@@ -110,8 +110,7 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)" />
   </div>
 
-<!--### 😂Random Dev Meme
-<img src="https://www.memedroid.com/memes/detail/4390498/Read-Dissolving-Illusions-by-Suzanne-Humphries?refGallery=random&page=1" width="512px"/>
+<a href="https://app.daily.dev/rizqinoorfauzan"><img src="https://api.daily.dev/devcards/v2/vB00ydU8RoM7vWZu2u8il.png?r=fho" width="356" alt="Rizqi Noor Fauzan's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=janfdev&icon=0&color=0)](https://visitcount.itsvg.in)
