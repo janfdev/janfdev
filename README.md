@@ -92,18 +92,18 @@
  |__/                                  
 ```
 
-<!--
+
 ### 🔥 Streak :
-<div align="center">
+<!-- <div align="center">
     <img src="https://streak-stats.demolab.com?user=janfdev&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> --!>
+</div> -->
 
 
 
 ###
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" /> !-->
+<img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" />
 
 ### ✍️Random Dev Quote
   <div align="center">
