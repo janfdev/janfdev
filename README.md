@@ -93,10 +93,16 @@
 ```
 
 
-### 🔥 Streak :
+<!--### 🔥 Streak :
 <!-- <div align="center">
     <img src="https://streak-stats.demolab.com?user=janfdev&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> -->
+
+## Repo :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janfdev&repo=codewars)](https://github.com/anuraghazra/github-readme-stats)
+
+### WakaTime :
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=janfdev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
