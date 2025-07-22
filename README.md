@@ -102,7 +102,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janfdev&repo=codewars)](https://github.com/janfdev/codewars)
 
 ### WakaTime :
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=janfdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=janfdev)](https://github.com/janfdev/codewars)
 
 
 
