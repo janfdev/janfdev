@@ -81,30 +81,16 @@
   </a>
 </div> 
 
-
-### ASCII :
-```
-    _              __     _            
-   (_) __ _ _ __  / _| __| | _____   __
-   | |/ _` | '_ \| |_ / _` |/ _ \ \ / /
-   | | (_| | | | |  _| (_| |  __/\ V / 
-  _/ |\__,_|_| |_|_|  \__,_|\___| \_/  
- |__/                                  
-```
-
-
-<!--### 🔥 Streak :
-<!-- <div align="center">
+### 🔥 Streak :
+<div align="center">
     <img src="https://streak-stats.demolab.com?user=janfdev&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> -->
+</div>
 
 ## Repo :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janfdev&repo=codewars)](https://github.com/janfdev/codewars)
 
 ### WakaTime :
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=janfdev)](https://github.com/janfdev/codewars)
-
-
 
 ###
 <br clear="both">
@@ -115,11 +101,4 @@
   <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)" />
   </div>
-
-<a style="margin-top: 12px;" href="https://app.daily.dev/rizqinoorfauzan"><img src="https://api.daily.dev/devcards/v2/vB00ydU8RoM7vWZu2u8il.png?r=fho" width="356" alt="Rizqi Noor Fauzan's Dev Card"/></a>
-
----
-[![](https://visitcount.itsvg.in/api?id=janfdev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
+-
