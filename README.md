@@ -86,13 +86,9 @@
     <img src="https://streak-stats.demolab.com?user=janfdev&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-## Repo :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janfdev&repo=codewars)](https://github.com/janfdev/codewars)
-
-### WakaTime :
+### ⌚ Waktu Ngomding:
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=janfdev)](https://github.com/janfdev/codewars)
 
-###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" />
@@ -101,4 +97,3 @@
   <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)" />
   </div>
--
