@@ -1,25 +1,25 @@
+<div align="center">
+  <img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500px">
+</div>
 <h1 align="center">Hi! There <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
-<p align="center">
+<p>
   <strong>I'm Rizqi Noor Fauzan</strong><br>
-  An Informatics Engineering student passionate about Web Development.<br>
-  Currently, I'm diving deep into Frontend Development, focusing on <strong>React.js</strong> and <strong>Tailwind CSS</strong> to build modern, responsive, and user-friendly Web Applications.
+  My name is Rizqi Noor Fauzan.
+  I am a Informatics Engineering student who is passionate about web development.
+  Currently, I am focusing on frontend development, with a particular emphasis on React.js and Tailwind CSS to build modern, responsive, and user-friendly web applications.
+  I am also developing my skills in full-stack development using Next.js, with the goal of creating robust and scalable web solutions from frontend to backend.
 </p>
 
 
-<img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="400px">
 
 ### 👩‍💻 About Me :
 
-- 📚 I'm currently learning **Tailwind** and **React JS**  
+- 📚 I'm currently learning **Tailwind**, **React JS**, and **Next JS**  
 - ⚡ In my free time, I created some simple projects
 
 ### 🛠️ Languages and Tools :
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
