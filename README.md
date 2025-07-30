@@ -73,7 +73,7 @@
  
 </div>
 
-### 🎵 Spotify Now Playing :
+<!-- ### 🎵 Spotify Now Playing :
 
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=31tsyhqczgzng3px7gcqb3lsg3iy">
