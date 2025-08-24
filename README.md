@@ -10,8 +10,6 @@
   I am also developing my skills in full-stack development using Next.js, with the goal of creating robust and scalable web solutions from frontend to backend.
 </p>
 
-
-
 ### 👩‍💻 About Me :
 
 - 📚 I'm currently learning **Tailwind**, **React JS**, and **Next JS**  
@@ -23,8 +21,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -40,9 +36,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
 ###
