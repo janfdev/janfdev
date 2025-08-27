@@ -73,7 +73,7 @@
 ![Janfdev top Stats](https://github-readme-stats.vercel.app/api?username=janfdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1)
 </details>
  
-### 🎵 Spotify Now Playing :
+<!--### 🎵 Spotify Now Playing :
 
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=31tsyhqczgzng3px7gcqb3lsg3iy">
