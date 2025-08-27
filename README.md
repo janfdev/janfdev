@@ -1,99 +1,65 @@
+<h1 align="center">Hello Everyone <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
+
+###
+
+<p align="center">My name is Rizqi Noor Fauzan.<br>  I am a Informatics Engineering student who is passionate about web development.<br>  Currently, I am focusing on frontend development, with a particular emphasis on React.js and Tailwind CSS to build modern, responsive, and user-friendly web applications.<br>  I am also developing my skills in full-stack development using Next.js, with the goal of creating robust and scalable web solutions from frontend to backend.</p>
+
+###
+
 <div align="center">
-  <img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500px">
-</div>
-<h1 align="center">Hi! There <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
-<p>
-  <strong>I'm Rizqi Noor Fauzan</strong><br>
-  My name is Rizqi Noor Fauzan.
-  I am a Informatics Engineering student who is passionate about web development.
-  Currently, I am focusing on frontend development, with a particular emphasis on React.js and Tailwind CSS to build modern, responsive, and user-friendly web applications.
-  I am also developing my skills in full-stack development using Next.js, with the goal of creating robust and scalable web solutions from frontend to backend.
-</p>
-
-### 👩‍💻 About Me :
-
-- 📚 I'm currently learning **Tailwind**, **React JS**, and **Next JS**  
-- ⚡ In my free time, I created some simple projects
-
-### 🛠️ Languages and Tools :
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="60" alt="prisma logo"  />
 </div>
 
 ###
 
-### 🌐 Connect with me :
-
-<div align="left">
-  <a href="https://www.instagram.com/zann.7654?igsh=MXUwb2wzNzU1dGZhcg=">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/zann0344">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:rizqinoorf@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/rizqinoorfauzan">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/rizqinoorfauzan">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+    <a href="mailto:rizqinoorf@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    </a>
+    <a href="https://discord.com/users/zann0344">
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    </a>
+    <a href="https://dly.to/mvLgPt77gtj">
+        <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+    </a>
 </div>
 
-<details>
-<summary><b>Languange </b></summary>
-<br>
-  
-![Janfdev top langs](https://github-readme-stats.vercel.app/api/top-langs?username=janfdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=shades-of-purple&hide_border=false&order=2)
-
-</details>
-
-
-<details>
-<summary><b>Stats : </b></summary>
-<br>
-
-![Janfdev top Stats](https://github-readme-stats.vercel.app/api?username=janfdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1)
-</details>
- 
-<!--### 🎵 Spotify Now Playing :
+###
 
 <div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31tsyhqczgzng3px7gcqb3lsg3iy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tsyhqczgzng3px7gcqb3lsg3iy&count=2&unique=false" alt="Spotify recently played" />
-  </a>
-</div> 
-
-### 🔥 Streak :
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=janfdev&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=janfdev&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-### ⌚ Waktu Ngomding:
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=janfdev)](https://github.com/janfdev/codewars)
+###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janfdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janfdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" />
 
-### ✍️Random Dev Quote
-  <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)" />
-  </div>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=janfdev.janfdev&"  />
+</div>
+
+###
