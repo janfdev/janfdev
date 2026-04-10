@@ -5,7 +5,6 @@
 <h1 align="center">Hello Everyone <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" /></h1>
 
 ###
-
 <p align="center">My name is Rizqi Noor Fauzan.<br>  I am a Informatics Engineering student who is passionate about web development.<br>  Currently, I am focusing on frontend development, with a particular emphasis on React.js and Tailwind CSS to build modern, responsive, and user-friendly web applications.<br>  I am also developing my skills in full-stack development using Next.js, with the goal of creating robust and scalable web solutions from frontend to backend.</p>
 
 ###
