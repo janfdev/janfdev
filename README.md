@@ -47,9 +47,9 @@ Focused on end-to-end type safety, clean architecture, and deterministic enginee
 
 ###
 
-<a href="https://github.com/janfdev">
+<!-- <a href="https://github.com/janfdev">
   <img src="https://www.gitskins.com/api/section/heatmap?username=janfdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139660395%3Fu%3D2f387088de36e6c02603b9b4c93507457dc7b091%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="janfdev animated contribution jet" />
-</a>
+</a> -->
 
 ###
 
@@ -66,8 +66,7 @@ Focused on end-to-end type safety, clean architecture, and deterministic enginee
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" /> 
--->
+<img src="https://raw.githubusercontent.com/janfdev/janfdev/output/snake.svg" alt="Snake animation" /> 
 
 ###
 
